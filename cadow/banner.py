@@ -25,15 +25,15 @@ C  = '\033[36m' # cyan
 class banner:
     def __init__(self):
         print C+orange+"""
-  __ _     _
- / _| |__ | |__    _
-| |_| '_ \| '_ \ _| |_  Facebook Bruteforce
-|  _| |_) | |_) |_   _|  Faster 1.0 kps
-|_| |_.__/|_.__/  |_|     Added More Info
-          [FBB+ Facebook Bruteforce Tool]
-        [@Created By Cabdualahi Sharif] """+C+p+"""
-              Youtube Channel: Somali 4You
-              Facebook Page: Somali 4You"""
+╔═══╗╔╗───╔╗──╔╗╔═══╗╔═══╗╔╗─╔╗╔═══╗╔╗╔═╗
+║╔══╝║║───║╚╗╔╝║║╔═╗║║╔═╗║║║─║║║╔═╗║║║║╔╝
+║╚══╗║║───╚╗╚╝╔╝║║─║║║╚══╗║╚═╝║║║─║║║╚╝╝─
+║╔══╝║║─╔╗─╚╗╔╝─║╚═╝║╚══╗║║╔═╗║║╚═╝║║╔╗║─
+║╚══╗║╚═╝║──║║──║╔═╗║║╚═╝║║║─║║║╔═╗║║║║╚╗
+╚═══╝╚═══╝──╚╝──╚╝─╚╝╚═══╝╚╝─╚╝╚╝─╚╝╚╝╚═╝
+        [@Created By SHAHELYAS] """+C+p+"""
+              TELEGRAM Channel: @AFGHACKER2020
+              Facebook Page: AFGHACKERS"""
         cabdulahi.sleep(2)
         print
         
